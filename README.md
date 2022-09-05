@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @Kaykay007
 - 👀 I’m interested in solving real-life solution with technological tools
-- 🌱 I’m currently learning Java, Springboot, Microservices, Kubernetes and Google Cloud Platform(GCP)
-- 💞️ I’m looking to collaborate on Real-life projects
+- 🌱 I’m currently learning as i learn new things everyday as a software engineer.
+-   Core Aspects - Java, Springboot, Microservices, Kubernetes and Google Cloud Platform(GCP)
+- 💞️ I’m looking to collaborate on Real-life projects and Implement good Innovative Solutions to the world as a whole.
 - 📫 How to reach me hameed.korede.hk@gmail.com
 
 <!---
